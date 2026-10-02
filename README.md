@@ -1,4 +1,4 @@
-# 🤖 BootBuddy
+# 🤖 MotivaBot
 
 Ligou o PC? O BootBuddy te dá bom dia e solta uma frase de motivação em voz alta.
 
@@ -8,4 +8,4 @@ e roda automaticamente quando o computador inicia.
 
 ## Instalação
 pip install pyttsx3
-python bootbuddy.py
+python MotivaBot.py
